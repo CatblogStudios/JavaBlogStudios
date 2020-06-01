@@ -190,8 +190,8 @@ https:\/\/api\.termius\.com\/api\/v3\/bulk\/account\/ url script-response-body h
 #VideoStar
 ^https?:\/\/.*\.videostarapp\.com\/scripts\/subsNew\.php url script-response-body https://raw.githubusercontent.com/DogBrother3/Script/iAP/VideoStar.js
 
-#Textnow
-^https:\/\/api\.textnow\.me\/api2.0\/users\/.* url script-response-body https://raw.githubusercontent.com/DogBrother3/Script/iAP/master/Textnow.js
+#Textnow 
+^https:\/\/api\.textnow\.me\/api2.0\/users\/.* url script-response-body https://raw.githubusercontent.com/DogBrother3/Script/iAP/Textnow.js
 
 #Muscle Booster
 ^https:\/\/menscoach-api\.asqq\.io\/prod\/user$ url script-response-body https://raw.githubusercontent.com/DogBrother3/Script/iAP/MuscleBooster.js
