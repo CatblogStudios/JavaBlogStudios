@@ -1,6 +1,8 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=leepotato&show_icons=true" />
 
 ### Hi there, I'm Fat Cat 🐱 👋.
+### The journey of learning and games, all kinds of miscellaneous talks.
+### Problem feedback mailbox: charlienichol86@gmail.com
 
 - 🧑‍💻 I'm a computer science student from Shanghai, China.
 - 🌱 I’m currently learning Java Development, Spring Boot and Distributed Systems.
