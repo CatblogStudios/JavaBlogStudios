@@ -1,6 +1,6 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=leepotato&show_icons=true" />
 
-### Hi there, I'm morooi 👋.
+### Hi there, I'm Fat Cat 🐱 👋.
 
 - 🧑‍💻 I'm a computer science student from Shanghai, China.
 - 🌱 I’m currently learning Java Development, Spring Boot and Distributed Systems.
